@@ -99,9 +99,4 @@ Till now, this project is just a demo built for course. And we've listed some ne
 
 
 
-## Author
 
-HAN, Siyuan / [@SiYuanHan](https://github.com/SiYuanHan)  
-LI, Jianda / [@jiandaLi](https://github.com/jiandaLi)  
-HU, Xiaoyu / [@HuXiaoyu1994](https://github.com/HuXiaoyu1994)  
-YANG, Austin Liu / [@AustinNeverPee](https://github.com/AustinNeverPee)
